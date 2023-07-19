@@ -1,6 +1,6 @@
 # User-Based-Collaborative-Filtering
 
-Implemented a ***Movie Recommendation System*** based on ***User Based Collaborative Filtering***.
+Implemented a ***Movie Recommendation System*** based on ***User Based Collaborative Filtering*** from scratch.
 
 ## Method Implemented
 
