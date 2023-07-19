@@ -29,4 +29,6 @@ for k = 30:
 * MSE : 1.3562490547491923
 * RMSE : 1.1645810640523022
 
+for k = 10 to 50:
+
 ![knn_results](https://github.com/zeeshan0804/User-Based-Collaborative-Filtering/assets/67948488/780fb00d-6039-4f98-bdf8-4d900e908ef3)
