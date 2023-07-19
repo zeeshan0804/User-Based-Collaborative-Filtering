@@ -9,7 +9,7 @@ Used two prediction methods
 * K - Nearest Neighbors
 * Resnick Prediction
 
-Used Cosine Similarity to calculate similarity between two users.
+Used ***Cosine Similarity*** to calculate similarity between two users.
 
 ## Results
 
